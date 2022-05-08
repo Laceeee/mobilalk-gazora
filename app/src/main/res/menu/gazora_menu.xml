@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search_bar"
+        android:title="Search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"
+        />
+
+    <item
+        android:id="@+id/show_addresses"
+        android:title="Címek"
+        android:icon="@drawable/ic_house"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/add"
+        android:title="Felvitel"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/profil"
+        android:title="Profil"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/log_out_button"
+        android:title="Kijelentkezés"
+        app:showAsAction="never"
+        />
+</menu>

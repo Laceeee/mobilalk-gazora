@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "934150045423",
+    "project_id": "gazora-874cf",
+    "storage_bucket": "gazora-874cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934150045423:android:b0f0907e28cdc4e93ca51a",
+        "android_client_info": {
+          "package_name": "com.laci.gazora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934150045423-2m64kstio7h81u0h1apf5rfn086c1n6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laci.gazora",
+            "certificate_hash": "f507e2e6108d45bbca50c564ba2c56e865f5a46d"
+          }
+        },
+        {
+          "client_id": "934150045423-j20ilvgvogsuhanv6n5h3q20hlldb9fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp6yWHt7axD8W55hmCvFAT77wk2VtwhwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934150045423-j20ilvgvogsuhanv6n5h3q20hlldb9fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

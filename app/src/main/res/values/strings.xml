@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gázóra</string>
+    <string name="regisztracio">Regisztráció</string>
+    <string name="felhasznalonev">Felhasználónév</string>
+    <string name="jelszo">Jelszó</string>
+    <string name="jelszoujra">Jelszó újra</string>
+    <string name="emailcim">Email cím</string>
+    <string name="nev">Név</string>
+    <string name="vissza">Vissza</string>
+    <string name="gazora_bejelentes">Gázóra bejelentés</string>
+    <string name="bejelentkezes">Bejelentkezés</string>
+    <string name="megtekintes">Megtekintés</string>
+    <string name="torles">Törlés</string>
+    <string name="placeholder">placeholder</string>
+    <string name="uj_cim">Új cím</string>
+    <string name="hozzaadas">Hozzáadás</string>
+    <string name="m3">m3</string>
+    <string name="gazora_allas">Gázóra állás (m3)</string>
+    <string name="datum">Dátum</string>
+
+    <string-array name="addressesItems">
+        <item>6727 Szeged Sólya utca 50</item>
+        <item>6753 Szeged Budai Nagy Antal utca 54</item>
+        <item>6753 Szeged Madarász utca 12</item>
+        <item>6727 Szeged Lőwy Sándor utca 79</item>
+    </string-array>
+</resources>
